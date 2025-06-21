@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Blox | Lera Lidzhieva</title>
+    <link>https://ldlidzhieva.github.io/en/tags/hugo-blox/</link>
+      <atom:link href="https://ldlidzhieva.github.io/en/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hugo Blox</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ldlidzhieva.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Hugo Blox</title>
+      <link>https://ldlidzhieva.github.io/en/tags/hugo-blox/</link>
+    </image>
+    
+    <item>
+      <title>Week 4</title>
+      <link>https://ldlidzhieva.github.io/en/post/04/</link>
+      <pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ldlidzhieva.github.io/en/post/04/</guid>
+      <description>&lt;h2 id=&#34;-study-week-june-1521&#34;&gt;🧠 Study Week: June 15–21&lt;/h2&gt;
+&lt;p&gt;I passed the &lt;strong&gt;Mathematical Logic exam&lt;/strong&gt;! 🎉 It was challenging, but I managed to get through it. Reviewing the material with the instructor really helped — almost half of the topics overlapped with the exam.&lt;/p&gt;
+&lt;p&gt;📝 What was included:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;working with propositional logic;&lt;/li&gt;
+&lt;li&gt;transforming logical formulas;&lt;/li&gt;
+&lt;li&gt;checking the satisfiability of logical expressions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Logic has now become one of my favorite subjects! I’m even thinking about exploring formal systems and the application of logic in programming more deeply.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 3</title>
+      <link>https://ldlidzhieva.github.io/en/post/03/</link>
+      <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ldlidzhieva.github.io/en/post/03/</guid>
+      <description>&lt;h2 id=&#34;-study-week-june-814&#34;&gt;📙 Study Week: June 8–14&lt;/h2&gt;
+&lt;p&gt;This week was all about &lt;strong&gt;logic&lt;/strong&gt;. I’ve been actively preparing for the upcoming &lt;strong&gt;Mathematical Logic exam&lt;/strong&gt;. We’re covering statements, quantifiers, and predicate calculus.&lt;/p&gt;
+&lt;p&gt;📖 What I found especially interesting:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;building truth tables;&lt;/li&gt;
+&lt;li&gt;transforming formulas into DNF and CNF;&lt;/li&gt;
+&lt;li&gt;constructing proofs using resolution.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I started a dedicated notebook for logic schemes and formulas. It’s fascinating how logic sharpens abstract thinking. I really enjoyed the problems that require proving contradictions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 2</title>
+      <link>https://ldlidzhieva.github.io/en/post/02/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ldlidzhieva.github.io/en/post/02/</guid>
+      <description>&lt;h2 id=&#34;-study-week-june-17&#34;&gt;📘 Study Week: June 1–7&lt;/h2&gt;
+&lt;p&gt;I spent the entire week preparing for the &lt;strong&gt;Calculus exam&lt;/strong&gt;, which took place on Friday. It&amp;rsquo;s the most difficult subject for me — especially topics like limits and derivatives.&lt;/p&gt;
+&lt;p&gt;📌 What was on the exam:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;calculating limits of complex functions;&lt;/li&gt;
+&lt;li&gt;applying L&amp;rsquo;Hôpital&amp;rsquo;s rule;&lt;/li&gt;
+&lt;li&gt;finding extrema;&lt;/li&gt;
+&lt;li&gt;proving the convergence of sequences.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;After the exam, I realized that consistent practice is the key to success. I wrote out notes by hand — it really helps to internalize the theorems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 1</title>
+      <link>https://ldlidzhieva.github.io/en/post/01/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://ldlidzhieva.github.io/en/post/01/</guid>
+      <description>&lt;h2 id=&#34;-study-week-may-2531&#34;&gt;📚 Study Week: May 25–31&lt;/h2&gt;
+&lt;p&gt;This week I passed my first exam of the session — &lt;strong&gt;Programming&lt;/strong&gt;. It was a bit nerve-wracking, but preparation really helped. We focused on solving problems with lists, dictionaries, and basic algorithms.&lt;/p&gt;
+&lt;p&gt;✏️ What came in handy:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;revisiting loops and conditionals;&lt;/li&gt;
+&lt;li&gt;handling errors using &lt;code&gt;try-except&lt;/code&gt;;&lt;/li&gt;
+&lt;li&gt;testing with simple unit tests.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Last year&amp;rsquo;s exam papers and task discussions with the instructor were incredibly helpful. I’m already starting to feel more confident in Python 💻&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

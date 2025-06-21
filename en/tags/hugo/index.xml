@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo | Lera Lidzhieva</title>
+    <link>https://ldlidzhieva.github.io/en/tags/hugo/</link>
+      <atom:link href="https://ldlidzhieva.github.io/en/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hugo</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 14 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ldlidzhieva.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Hugo</title>
+      <link>https://ldlidzhieva.github.io/en/tags/hugo/</link>
+    </image>
+    
+    <item>
+      <title>Academic Personal Website with Hugo Academic</title>
+      <link>https://ldlidzhieva.github.io/en/project/hugo/</link>
+      <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ldlidzhieva.github.io/en/project/hugo/</guid>
+      <description>&lt;h2 id=&#34;-academic-personal-website-why-and-how&#34;&gt;🌐 Academic Personal Website: Why and How?&lt;/h2&gt;
+&lt;p&gt;In the academic and research world, a &lt;strong&gt;personal website is not just a portfolio&lt;/strong&gt; — it&amp;rsquo;s a key tool for communication, presenting achievements, and connecting with peers.&lt;/p&gt;
+&lt;p&gt;One of the most convenient and popular ways to create such a site is by using the &lt;strong&gt;Academic template&lt;/strong&gt; on the &lt;strong&gt;Hugo&lt;/strong&gt; platform.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-what-is-hugo-academic&#34;&gt;🔍 What is Hugo Academic?&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Hugo&lt;/strong&gt; is a framework for building static websites. &lt;strong&gt;Hugo Academic&lt;/strong&gt; is a specialized template created for researchers, graduate students, and academics. It allows you to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;elegantly present your publications, biography, courses, and projects;&lt;/li&gt;
+&lt;li&gt;visualize your academic and research experience;&lt;/li&gt;
+&lt;li&gt;deploy easily via GitHub Pages, Netlify, and other platforms.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-why-does-a-researcher-need-a-website&#34;&gt;🧠 Why does a researcher need a website?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;📄 Showcase your list of publications, theses, and articles.&lt;/li&gt;
+&lt;li&gt;🧑‍🏫 Present the courses you teach or have developed.&lt;/li&gt;
+&lt;li&gt;💬 Share your ideas, blog posts, and academic reflections.&lt;/li&gt;
+&lt;li&gt;🤝 Make it easier to connect for collaborations and invitations.&lt;/li&gt;
+&lt;li&gt;🚀 Promote yourself as an expert in your field.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-what-can-you-include&#34;&gt;⚙️ What can you include?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;A full biography and résumé;&lt;/li&gt;
+&lt;li&gt;Your academic interests;&lt;/li&gt;
+&lt;li&gt;Automatically imported publications from Google Scholar;&lt;/li&gt;
+&lt;li&gt;Courses and lectures;&lt;/li&gt;
+&lt;li&gt;Research and technical projects;&lt;/li&gt;
+&lt;li&gt;Blog-style scientific notes and posts;&lt;/li&gt;
+&lt;li&gt;Links to profiles on ORCID, ResearchGate, GitHub, and more.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-how-to-get-started&#34;&gt;🚀 How to get started?&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Install Hugo and download the Academic template.&lt;/li&gt;
+&lt;li&gt;Set up the site structure: &lt;code&gt;config.yaml&lt;/code&gt;, &lt;code&gt;content/&lt;/code&gt;, &lt;code&gt;data/&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Add your content: publications, biography, interests.&lt;/li&gt;
+&lt;li&gt;Deploy via GitHub Pages or Netlify.&lt;/li&gt;
+&lt;li&gt;Keep the site updated as your academic journey evolves.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;📌 Conclusion&lt;/h2&gt;
+&lt;p&gt;A site built with Hugo Academic is a &lt;strong&gt;modern and efficient way to present yourself as a researcher&lt;/strong&gt;. It&amp;rsquo;s especially useful for students, graduate students, and educators who want to organize their academic profile systematically.&lt;/p&gt;
+&lt;p&gt;Even if you&amp;rsquo;re just starting out — this is a great exercise in digital self-presentation and structuring your academic identity.&lt;/p&gt;
+&lt;p&gt;Want to build a site like this? Reach out — I’d be happy to help you set up the basics!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

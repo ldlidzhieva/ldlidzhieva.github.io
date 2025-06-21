@@ -1,39 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wowchemy | Hugo Academic CV Theme</title>
-    <link>https://example.com/tags/wowchemy/</link>
-      <atom:link href="https://example.com/tags/wowchemy/index.xml" rel="self" type="application/rss+xml" />
+    <title>Wowchemy | Валерия Лиджиева</title>
+    <link>https://ldlidzhieva.github.io/tags/wowchemy/</link>
+      <atom:link href="https://ldlidzhieva.github.io/tags/wowchemy/index.xml" rel="self" type="application/rss+xml" />
     <description>Wowchemy</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 14 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://ldlidzhieva.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Wowchemy</title>
-      <link>https://example.com/tags/wowchemy/</link>
+      <link>https://ldlidzhieva.github.io/tags/wowchemy/</link>
     </image>
     
     <item>
-      <title>Pandas</title>
-      <link>https://example.com/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://example.com/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>https://example.com/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <title>Персональный сайт научного работника на Hugo Academic</title>
+      <link>https://ldlidzhieva.github.io/project/hugo/</link>
+      <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ldlidzhieva.github.io/project/hugo/</guid>
+      <description>&lt;h2 id=&#34;-персональный-сайт-научного-работника-зачем-и-как&#34;&gt;🌐 Персональный сайт научного работника: зачем и как?&lt;/h2&gt;
+&lt;p&gt;В академической и исследовательской среде &lt;strong&gt;персональный сайт — это не просто портфолио&lt;/strong&gt;, а важный инструмент коммуникации, презентации своих достижений и поиска коллег по интересам.&lt;/p&gt;
+&lt;p&gt;Один из самых удобных и популярных способов создать такой сайт — использовать &lt;strong&gt;шаблон Academic&lt;/strong&gt; на платформе &lt;strong&gt;Hugo&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-что-такое-hugo-academic&#34;&gt;🔍 Что такое Hugo Academic?&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Hugo&lt;/strong&gt; — это фреймворк для создания статических сайтов. А &lt;strong&gt;Hugo Academic&lt;/strong&gt; — это специализированный шаблон, разработанный для учёных, аспирантов и студентов, который:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;красиво оформляет публикации, биографию, курсы, проекты;&lt;/li&gt;
+&lt;li&gt;поддерживает визуализацию исследовательского опыта;&lt;/li&gt;
+&lt;li&gt;легко размещается на GitHub Pages, Netlify и других платформах.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-зачем-учёному-сайт&#34;&gt;🧠 Зачем учёному сайт?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;📄 Представить список публикаций, тезисов, статей.&lt;/li&gt;
+&lt;li&gt;🧑‍🏫 Показать курсы, которые вы ведёте или разрабатываете.&lt;/li&gt;
+&lt;li&gt;💬 Поделиться идеями, блогами, научными заметками.&lt;/li&gt;
+&lt;li&gt;🤝 Упростить контакт для коллабораций и приглашений.&lt;/li&gt;
+&lt;li&gt;🚀 Продвигать себя как специалиста в выбранной области.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-что-можно-разместить&#34;&gt;⚙️ Что можно разместить?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Биографию и резюме;&lt;/li&gt;
+&lt;li&gt;Перечень научных интересов;&lt;/li&gt;
+&lt;li&gt;Публикации с автоматическим импортом из Google Scholar;&lt;/li&gt;
+&lt;li&gt;Курсы и лекции;&lt;/li&gt;
+&lt;li&gt;Проекты (исследовательские, технические);&lt;/li&gt;
+&lt;li&gt;Посты и научные заметки в формате блога;&lt;/li&gt;
+&lt;li&gt;Ссылки на профили в ORCID, ResearchGate, GitHub и др.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-как-начать&#34;&gt;🚀 Как начать?&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Установить Hugo и скачать Academic-шаблон.&lt;/li&gt;
+&lt;li&gt;Настроить структуру сайта: &lt;code&gt;config.yaml&lt;/code&gt;, &lt;code&gt;content/&lt;/code&gt;, &lt;code&gt;data/&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Добавить контент: публикации, биографию, интересы.&lt;/li&gt;
+&lt;li&gt;Подключить GitHub Pages или Netlify для автоматического деплоя.&lt;/li&gt;
+&lt;li&gt;Обновлять сайт по мере научного роста.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-вывод&#34;&gt;📌 Вывод&lt;/h2&gt;
+&lt;p&gt;Сайт на Hugo Academic — это &lt;strong&gt;удобный и современный способ представить себя как исследователя&lt;/strong&gt;. Он особенно полезен студентам, аспирантам и преподавателям, которые хотят системно подойти к своему академическому пути.&lt;/p&gt;
+&lt;p&gt;Даже если вы только начинаете — это отличное упражнение в цифровом самопрезентации и структурировании научной информации.&lt;/p&gt;
+&lt;p&gt;Хочешь создать такой сайт? Напиши — помогу собрать базовую структуру!&lt;/p&gt;
+</description>
     </item>
     
   </channel>
